@@ -47,6 +47,11 @@ INSERT INTO Room (numberRoom, seatCount) VALUES (1, 50);
 INSERT INTO Room (numberRoom, seatCount) VALUES (2, 30);
 INSERT INTO Room (numberRoom, seatCount) VALUES (3, 100);
 
-INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Shrek', 148, false);
-INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Inception', 137, false);
-INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Ouioui', 153, true);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Shrek', 89, false);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Inception', 148, false);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Avatar', 161, false);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Vaiana', 113, false);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('Le parrain', 175, true);
+INSERT INTO Movie (title, duration, isForbiddenUnder18) VALUES ('La reine des neiges', 102, false);
+
+
